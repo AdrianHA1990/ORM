@@ -1,0 +1,1001 @@
+id,estado,fecha_registro,fecha_modificacion,nom_area,usuario_id
+1,false,2022-04-24,2022-11-25,Services,1
+2,true,2022-09-17,2022-08-01,Human Resources,1
+3,false,2022-12-12,2022-11-06,Business Development,1
+4,true,2022-08-29,2022-09-27,Engineering,1
+5,true,2022-12-15,2022-04-26,Accounting,1
+6,true,2022-04-19,2022-07-20,Services,1
+7,true,2022-11-15,2022-08-25,Product Management,1
+8,true,2023-02-01,2022-11-01,Human Resources,1
+9,false,2022-03-06,2022-04-28,Support,1
+10,true,2023-01-30,2022-12-20,Legal,1
+11,false,2022-04-02,2022-05-23,Business Development,1
+12,false,2022-11-25,2022-10-13,Support,1
+13,false,2022-10-20,2022-11-18,Training,1
+14,true,2022-07-12,2022-05-02,Research and Development,1
+15,true,2022-11-09,2022-07-08,Support,1
+16,true,2022-06-03,2022-03-24,Research and Development,1
+17,false,2022-02-09,2022-07-25,Training,1
+18,true,2022-10-05,2022-05-30,Sales,1
+19,false,2023-01-04,2022-03-11,Services,1
+20,false,2022-05-22,2022-07-25,Product Management,1
+21,false,2023-02-12,2022-12-28,Sales,1
+22,false,2022-11-18,2022-12-21,Accounting,1
+23,false,2023-01-02,2022-06-13,Product Management,1
+24,true,2022-11-21,2022-11-24,Human Resources,1
+25,true,2022-10-07,2022-08-15,Business Development,1
+26,true,2022-04-18,2023-01-16,Accounting,1
+27,true,2022-11-13,2022-06-29,Engineering,1
+28,true,2022-11-29,2022-07-14,Human Resources,1
+29,true,2022-09-26,2022-11-01,Product Management,1
+30,true,2022-11-21,2023-01-11,Services,1
+31,false,2022-03-27,2022-12-30,Research and Development,1
+32,true,2023-02-02,2022-05-17,Legal,1
+33,true,2022-03-11,2022-05-04,Human Resources,1
+34,true,2022-10-08,2022-02-28,Business Development,1
+35,true,2022-03-23,2022-11-30,Research and Development,1
+36,true,2022-03-25,2022-04-06,Sales,1
+37,false,2022-03-10,2022-10-06,Business Development,1
+38,false,2022-05-22,2022-06-12,Sales,1
+39,true,2023-01-01,2022-08-11,Legal,1
+40,false,2022-04-21,2022-03-09,Marketing,1
+41,true,2022-07-17,2022-07-09,Human Resources,1
+42,false,2022-03-05,2022-08-31,Services,1
+43,true,2022-11-12,2022-11-15,Accounting,1
+44,true,2022-05-17,2023-01-04,Marketing,1
+45,false,2023-02-06,2022-05-10,Training,1
+46,false,2022-02-18,2022-06-06,Sales,1
+47,true,2022-07-03,2022-07-28,Sales,1
+48,false,2022-08-26,2023-01-24,Services,1
+49,true,2022-04-07,2023-01-25,Services,1
+50,true,2022-11-02,2022-10-05,Support,1
+51,true,2022-09-17,2022-08-07,Human Resources,1
+52,false,2022-06-10,2023-02-06,Research and Development,1
+53,false,2022-04-08,2022-06-13,Business Development,1
+54,false,2022-06-21,2022-08-23,Support,1
+55,false,2022-09-27,2022-10-21,Sales,1
+56,true,2022-04-28,2022-03-31,Human Resources,1
+57,false,2023-01-25,2022-04-19,Legal,1
+58,true,2022-08-04,2022-06-09,Engineering,1
+59,false,2022-09-24,2022-11-19,Sales,1
+60,false,2023-02-02,2022-11-04,Legal,1
+61,true,2022-04-19,2022-11-02,Marketing,1
+62,false,2022-02-23,2022-03-15,Business Development,1
+63,true,2022-07-12,2022-08-06,Training,1
+64,false,2022-09-03,2022-09-08,Legal,1
+65,true,2022-06-12,2022-08-13,Legal,1
+66,false,2022-04-07,2023-01-25,Training,1
+67,true,2022-10-23,2022-04-07,Research and Development,1
+68,false,2022-02-11,2023-01-02,Support,1
+69,false,2022-06-27,2022-12-04,Research and Development,1
+70,false,2022-02-27,2022-11-25,Marketing,1
+71,true,2022-12-14,2022-08-14,Engineering,1
+72,false,2022-10-08,2022-09-26,Training,1
+73,true,2023-01-12,2022-03-10,Training,1
+74,true,2022-11-17,2022-05-10,Human Resources,1
+75,false,2022-04-16,2022-12-16,Engineering,1
+76,true,2022-07-31,2022-12-26,Marketing,1
+77,false,2022-12-03,2022-09-01,Human Resources,1
+78,false,2022-12-12,2022-03-10,Legal,1
+79,true,2023-01-29,2022-03-28,Product Management,1
+80,true,2023-02-07,2023-01-25,Research and Development,1
+81,true,2022-10-24,2022-07-31,Engineering,1
+82,true,2022-06-15,2022-09-02,Services,1
+83,false,2023-01-04,2022-12-02,Support,1
+84,false,2022-09-27,2022-09-12,Accounting,1
+85,true,2022-12-21,2022-10-07,Support,1
+86,true,2022-11-15,2022-08-26,Marketing,1
+87,false,2022-08-19,2022-08-03,Business Development,1
+88,true,2022-02-22,2022-11-24,Legal,1
+89,true,2023-01-03,2022-09-17,Human Resources,1
+90,true,2023-02-04,2022-07-21,Services,1
+91,false,2022-04-07,2022-07-19,Services,1
+92,false,2023-02-09,2022-12-22,Marketing,1
+93,false,2022-10-05,2023-01-23,Human Resources,1
+94,true,2023-02-04,2023-01-01,Research and Development,1
+95,false,2022-09-25,2022-06-01,Accounting,1
+96,false,2022-11-28,2022-05-16,Services,1
+97,true,2022-11-14,2022-12-17,Support,1
+98,true,2023-01-05,2022-08-13,Engineering,1
+99,false,2022-07-08,2022-09-05,Human Resources,1
+100,true,2022-09-28,2022-02-27,Product Management,1
+101,true,2023-01-28,2022-06-26,Product Management,1
+102,true,2022-02-18,2022-06-25,Human Resources,1
+103,true,2022-07-04,2022-08-04,Business Development,1
+104,true,2022-06-22,2022-08-23,Human Resources,1
+105,true,2022-12-06,2023-01-10,Services,1
+106,true,2022-07-16,2022-12-15,Business Development,1
+107,false,2022-09-28,2022-10-14,Marketing,1
+108,false,2022-09-02,2022-08-18,Training,1
+109,false,2022-02-09,2023-01-24,Human Resources,1
+110,false,2022-10-20,2023-01-04,Engineering,1
+111,false,2022-10-15,2022-05-02,Accounting,1
+112,true,2022-03-20,2023-01-17,Services,1
+113,true,2022-08-17,2022-11-06,Engineering,1
+114,true,2022-10-07,2023-01-04,Legal,1
+115,false,2022-08-27,2022-04-10,Services,1
+116,false,2022-08-11,2022-09-22,Training,1
+117,false,2022-12-16,2023-02-01,Marketing,1
+118,true,2022-03-28,2022-03-26,Human Resources,1
+119,false,2022-08-04,2022-04-28,Training,1
+120,false,2022-12-27,2022-04-21,Research and Development,1
+121,false,2022-06-19,2022-06-09,Marketing,1
+122,true,2022-03-17,2022-10-08,Human Resources,1
+123,false,2023-01-26,2022-06-04,Accounting,1
+124,true,2022-03-11,2022-04-06,Sales,1
+125,false,2023-01-24,2023-01-19,Training,1
+126,true,2022-05-13,2022-12-31,Product Management,1
+127,false,2022-02-21,2023-02-13,Human Resources,1
+128,true,2023-02-19,2022-08-31,Business Development,1
+129,true,2022-10-02,2022-06-21,Business Development,1
+130,true,2023-02-16,2023-01-07,Legal,1
+131,false,2022-05-19,2022-06-06,Legal,1
+132,false,2022-09-04,2022-08-08,Research and Development,1
+133,false,2022-09-29,2023-01-12,Research and Development,1
+134,false,2022-10-27,2022-10-24,Engineering,1
+135,true,2022-03-07,2022-07-17,Engineering,1
+136,true,2022-08-25,2023-01-26,Marketing,1
+137,false,2022-06-16,2022-04-05,Human Resources,1
+138,true,2022-06-01,2022-06-30,Training,1
+139,false,2022-05-29,2022-03-29,Services,1
+140,true,2023-01-16,2022-04-24,Support,1
+141,false,2022-03-20,2022-04-12,Sales,1
+142,false,2022-02-17,2022-12-14,Human Resources,1
+143,false,2022-02-28,2023-02-06,Support,1
+144,false,2022-10-21,2022-07-11,Product Management,1
+145,false,2022-06-06,2022-04-23,Services,1
+146,false,2022-04-14,2022-09-25,Business Development,1
+147,true,2022-08-23,2022-05-03,Sales,1
+148,true,2023-01-11,2022-04-06,Research and Development,1
+149,true,2022-11-15,2023-01-16,Human Resources,1
+150,false,2023-01-30,2022-07-08,Services,1
+151,true,2022-11-12,2023-02-08,Research and Development,1
+152,false,2022-02-26,2022-05-13,Legal,1
+153,true,2022-05-29,2022-09-04,Accounting,1
+154,true,2022-06-14,2022-09-20,Human Resources,1
+155,true,2022-12-21,2022-09-12,Services,1
+156,true,2022-09-23,2022-06-14,Support,1
+157,false,2022-03-28,2022-11-09,Business Development,1
+158,false,2022-04-13,2023-01-19,Training,1
+159,true,2022-07-17,2023-01-05,Accounting,1
+160,false,2022-08-24,2022-10-13,Support,1
+161,false,2022-11-04,2022-11-08,Accounting,1
+162,true,2022-03-02,2022-07-27,Research and Development,1
+163,false,2022-09-27,2022-07-12,Accounting,1
+164,true,2022-09-21,2022-08-11,Human Resources,1
+165,false,2022-06-26,2022-07-19,Product Management,1
+166,true,2022-12-20,2022-09-11,Services,1
+167,false,2022-04-10,2022-04-11,Research and Development,1
+168,false,2022-02-07,2022-08-17,Sales,1
+169,false,2022-03-29,2022-09-06,Business Development,1
+170,false,2022-02-12,2022-08-26,Legal,1
+171,false,2022-09-22,2023-02-04,Marketing,1
+172,true,2022-03-21,2022-08-08,Accounting,1
+173,true,2022-12-10,2022-12-05,Business Development,1
+174,false,2022-10-22,2022-09-23,Legal,1
+175,false,2022-11-06,2022-11-24,Product Management,1
+176,false,2022-05-24,2023-01-04,Sales,1
+177,true,2022-08-31,2023-01-30,Research and Development,1
+178,true,2022-06-06,2022-11-22,Human Resources,1
+179,true,2022-10-06,2022-08-07,Engineering,1
+180,false,2022-05-04,2023-01-12,Research and Development,1
+181,false,2022-03-28,2023-01-10,Human Resources,1
+182,false,2022-06-26,2022-03-16,Product Management,1
+183,true,2022-03-12,2022-03-25,Accounting,1
+184,false,2022-08-24,2022-10-14,Product Management,1
+185,false,2023-02-08,2022-06-12,Sales,1
+186,true,2022-07-28,2022-08-06,Research and Development,1
+187,false,2022-09-09,2022-04-07,Business Development,1
+188,true,2022-05-01,2023-01-21,Training,1
+189,false,2023-02-10,2022-04-20,Business Development,1
+190,true,2022-11-10,2022-03-17,Services,1
+191,true,2022-03-01,2022-03-19,Research and Development,1
+192,false,2022-03-01,2022-10-05,Research and Development,1
+193,false,2022-07-02,2022-07-03,Business Development,1
+194,false,2022-12-16,2022-12-31,Sales,1
+195,false,2022-11-18,2022-05-25,Sales,1
+196,false,2023-02-19,2022-09-25,Product Management,1
+197,false,2022-06-19,2022-04-14,Legal,1
+198,false,2022-03-22,2022-12-28,Business Development,1
+199,true,2022-04-30,2022-08-14,Marketing,1
+200,true,2022-12-10,2022-04-07,Support,1
+201,false,2022-07-14,2022-06-22,Accounting,1
+202,false,2022-08-13,2022-08-30,Sales,1
+203,true,2022-04-19,2022-10-19,Support,1
+204,false,2022-08-31,2022-12-12,Accounting,1
+205,true,2022-05-23,2022-09-02,Business Development,1
+206,true,2022-08-20,2022-03-20,Services,1
+207,false,2022-10-09,2022-12-24,Accounting,1
+208,false,2022-03-11,2023-01-17,Human Resources,1
+209,true,2022-10-07,2022-03-05,Marketing,1
+210,false,2023-01-31,2023-01-16,Sales,1
+211,false,2022-08-09,2022-03-11,Engineering,1
+212,false,2022-11-12,2022-05-06,Services,1
+213,true,2022-04-25,2022-06-07,Engineering,1
+214,true,2022-04-30,2023-02-12,Research and Development,1
+215,true,2022-08-09,2022-04-03,Services,1
+216,false,2022-07-20,2022-06-24,Marketing,1
+217,true,2022-05-15,2022-09-21,Training,1
+218,true,2023-02-19,2022-08-05,Research and Development,1
+219,true,2022-04-13,2022-09-19,Human Resources,1
+220,false,2022-03-22,2022-07-11,Product Management,1
+221,false,2022-11-01,2022-04-15,Training,1
+222,true,2022-08-06,2022-09-06,Product Management,1
+223,true,2023-02-04,2022-03-24,Product Management,1
+224,false,2023-01-27,2022-06-13,Research and Development,1
+225,true,2022-08-31,2022-04-16,Human Resources,1
+226,true,2022-04-30,2022-10-06,Business Development,1
+227,false,2022-11-21,2022-06-04,Services,1
+228,true,2022-06-27,2022-08-24,Human Resources,1
+229,false,2022-07-15,2023-01-29,Legal,1
+230,false,2022-12-22,2022-09-21,Legal,1
+231,true,2022-12-19,2022-11-06,Support,1
+232,true,2022-04-09,2022-07-16,Marketing,1
+233,false,2022-07-31,2022-11-03,Services,1
+234,false,2022-03-11,2022-03-26,Legal,1
+235,true,2023-01-23,2022-07-08,Training,1
+236,true,2022-08-14,2022-08-16,Support,1
+237,false,2022-11-12,2023-02-08,Business Development,1
+238,true,2022-09-04,2022-08-05,Support,1
+239,true,2022-06-16,2022-09-21,Product Management,1
+240,false,2022-12-14,2022-05-14,Marketing,1
+241,false,2022-02-26,2022-04-02,Support,1
+242,false,2022-05-22,2022-09-25,Engineering,1
+243,true,2022-08-19,2022-11-23,Legal,1
+244,false,2022-02-12,2022-12-12,Research and Development,1
+245,true,2022-04-13,2023-01-23,Engineering,1
+246,true,2022-06-18,2022-11-10,Product Management,1
+247,true,2023-01-14,2022-12-02,Human Resources,1
+248,false,2022-03-22,2022-02-25,Product Management,1
+249,true,2022-12-29,2022-11-25,Services,1
+250,false,2022-05-05,2022-06-12,Sales,1
+251,false,2022-04-13,2022-10-30,Services,1
+252,true,2022-05-23,2022-12-05,Marketing,1
+253,false,2022-12-13,2022-08-15,Human Resources,1
+254,true,2022-03-26,2022-03-27,Research and Development,1
+255,false,2022-10-01,2022-10-10,Human Resources,1
+256,true,2022-10-20,2023-01-31,Accounting,1
+257,false,2022-12-28,2022-08-24,Human Resources,1
+258,true,2022-02-21,2022-11-04,Services,1
+259,false,2022-09-27,2022-05-21,Sales,1
+260,false,2022-10-29,2022-10-25,Research and Development,1
+261,true,2022-09-11,2022-08-22,Sales,1
+262,false,2022-04-02,2022-03-13,Sales,1
+263,false,2022-03-04,2022-06-24,Human Resources,1
+264,true,2022-08-08,2022-10-10,Research and Development,1
+265,true,2022-03-25,2022-08-31,Product Management,1
+266,false,2022-06-03,2022-06-15,Product Management,1
+267,true,2023-01-13,2023-02-07,Product Management,1
+268,true,2022-09-15,2022-04-12,Sales,1
+269,true,2022-03-03,2022-09-17,Accounting,1
+270,false,2023-01-06,2022-04-08,Human Resources,1
+271,false,2022-12-22,2022-08-29,Services,1
+272,true,2022-03-07,2022-09-08,Legal,1
+273,true,2022-04-15,2022-12-13,Product Management,1
+274,false,2022-07-08,2022-03-03,Support,1
+275,true,2022-12-14,2022-03-25,Sales,1
+276,true,2022-05-13,2023-02-13,Human Resources,1
+277,true,2022-09-29,2022-07-01,Support,1
+278,true,2022-11-13,2022-08-22,Human Resources,1
+279,false,2022-07-05,2022-09-25,Engineering,1
+280,true,2022-04-21,2022-06-13,Engineering,1
+281,false,2022-06-04,2022-03-07,Product Management,1
+282,true,2022-09-27,2023-01-25,Product Management,1
+283,false,2023-02-15,2022-09-22,Training,1
+284,true,2022-02-09,2022-06-16,Business Development,1
+285,false,2022-07-15,2022-05-14,Legal,1
+286,true,2023-02-19,2022-04-28,Services,1
+287,false,2022-03-16,2022-04-21,Legal,1
+288,false,2023-01-02,2023-02-10,Marketing,1
+289,false,2022-07-12,2022-06-01,Training,1
+290,false,2022-05-29,2022-08-04,Human Resources,1
+291,true,2022-02-06,2022-10-24,Marketing,1
+292,false,2022-10-19,2022-07-18,Legal,1
+293,true,2022-05-30,2023-01-01,Business Development,1
+294,true,2022-12-17,2022-10-08,Product Management,1
+295,false,2022-05-27,2022-10-13,Support,1
+296,true,2023-01-22,2022-09-06,Product Management,1
+297,false,2022-07-30,2022-06-21,Marketing,1
+298,true,2022-08-26,2022-10-10,Accounting,1
+299,true,2022-04-26,2022-04-28,Marketing,1
+300,true,2022-07-16,2022-11-17,Engineering,1
+301,false,2022-03-17,2022-06-29,Marketing,1
+302,false,2022-07-10,2022-11-04,Human Resources,1
+303,false,2023-01-01,2022-04-26,Product Management,1
+304,true,2022-11-26,2022-07-27,Research and Development,1
+305,true,2022-06-11,2022-08-17,Human Resources,1
+306,false,2022-05-20,2023-01-17,Training,1
+307,true,2022-11-26,2022-09-22,Product Management,1
+308,true,2022-06-30,2022-11-24,Business Development,1
+309,false,2022-07-26,2022-03-14,Product Management,1
+310,true,2023-01-23,2022-09-20,Human Resources,1
+311,true,2022-07-08,2022-05-03,Business Development,1
+312,true,2023-01-11,2022-09-07,Engineering,1
+313,true,2023-02-17,2022-12-21,Support,1
+314,true,2022-05-04,2022-10-10,Product Management,1
+315,false,2022-09-29,2022-12-06,Human Resources,1
+316,false,2022-08-07,2022-08-15,Business Development,1
+317,false,2022-09-15,2023-01-18,Business Development,1
+318,true,2023-01-17,2022-10-19,Support,1
+319,false,2023-01-25,2022-11-05,Services,1
+320,false,2022-03-09,2022-09-04,Business Development,1
+321,true,2022-11-03,2022-03-30,Marketing,1
+322,true,2022-03-01,2022-03-29,Sales,1
+323,true,2022-04-17,2023-01-26,Services,1
+324,true,2022-04-07,2022-03-03,Legal,1
+325,true,2022-07-05,2022-02-26,Marketing,1
+326,true,2022-02-26,2022-07-22,Research and Development,1
+327,true,2022-05-07,2022-05-02,Research and Development,1
+328,false,2022-10-10,2022-12-11,Product Management,1
+329,false,2022-11-24,2022-10-25,Human Resources,1
+330,false,2022-05-22,2022-11-20,Legal,1
+331,false,2022-11-19,2022-06-09,Support,1
+332,false,2022-07-16,2022-03-15,Business Development,1
+333,true,2023-01-31,2023-01-20,Support,1
+334,false,2022-02-25,2023-01-11,Marketing,1
+335,false,2022-09-10,2022-05-11,Engineering,1
+336,false,2022-12-21,2022-07-19,Engineering,1
+337,false,2022-09-24,2023-01-10,Human Resources,1
+338,true,2022-12-07,2022-07-05,Legal,1
+339,false,2022-06-26,2023-02-04,Sales,1
+340,true,2022-11-12,2022-12-27,Business Development,1
+341,true,2023-01-05,2022-05-13,Marketing,1
+342,true,2022-03-16,2022-05-29,Marketing,1
+343,false,2022-05-04,2022-04-08,Accounting,1
+344,true,2022-02-17,2022-07-30,Accounting,1
+345,true,2023-01-30,2022-04-02,Research and Development,1
+346,false,2022-08-12,2022-07-18,Product Management,1
+347,false,2022-06-28,2022-08-22,Legal,1
+348,false,2022-06-05,2022-05-17,Training,1
+349,false,2022-07-06,2022-08-19,Support,1
+350,false,2022-12-19,2022-09-21,Sales,1
+351,true,2022-11-21,2022-07-22,Accounting,1
+352,true,2022-06-04,2022-03-03,Marketing,1
+353,false,2022-12-25,2022-04-07,Training,1
+354,false,2022-12-14,2022-05-29,Human Resources,1
+355,false,2022-06-30,2022-11-23,Business Development,1
+356,false,2022-06-19,2022-07-26,Human Resources,1
+357,true,2023-02-15,2022-05-07,Legal,1
+358,true,2022-08-31,2022-02-22,Legal,1
+359,true,2022-09-15,2022-10-20,Human Resources,1
+360,false,2022-04-26,2022-06-26,Marketing,1
+361,true,2022-02-10,2022-03-01,Human Resources,1
+362,false,2022-12-29,2022-09-27,Human Resources,1
+363,false,2022-08-05,2022-05-25,Accounting,1
+364,false,2022-07-10,2022-10-02,Business Development,1
+365,true,2022-04-27,2023-02-07,Accounting,1
+366,false,2022-03-18,2023-01-18,Sales,1
+367,false,2022-08-21,2022-04-05,Engineering,1
+368,false,2022-06-08,2022-09-28,Support,1
+369,true,2022-10-29,2022-12-28,Research and Development,1
+370,true,2022-09-27,2022-07-03,Human Resources,1
+371,false,2022-10-28,2022-09-11,Marketing,1
+372,true,2022-05-03,2022-11-03,Human Resources,1
+373,true,2022-05-19,2022-08-11,Sales,1
+374,false,2022-05-26,2022-03-18,Engineering,1
+375,false,2022-08-06,2022-03-08,Training,1
+376,false,2022-03-13,2022-03-18,Research and Development,1
+377,false,2022-07-25,2022-06-02,Accounting,1
+378,false,2023-01-25,2022-12-10,Services,1
+379,true,2022-06-16,2023-01-04,Product Management,1
+380,false,2022-03-10,2022-03-11,Support,1
+381,true,2022-05-06,2023-02-09,Training,1
+382,true,2022-04-18,2023-01-10,Legal,1
+383,true,2022-02-16,2023-01-13,Marketing,1
+384,true,2022-08-24,2023-01-10,Training,1
+385,false,2022-04-02,2022-09-19,Research and Development,1
+386,true,2022-08-23,2023-01-17,Human Resources,1
+387,false,2023-01-02,2022-07-19,Support,1
+388,false,2022-03-27,2022-06-28,Marketing,1
+389,true,2022-12-04,2022-03-05,Human Resources,1
+390,true,2022-03-09,2023-02-04,Legal,1
+391,true,2023-01-12,2022-08-31,Services,1
+392,true,2022-11-07,2022-04-15,Business Development,1
+393,true,2023-01-27,2022-04-01,Sales,1
+394,true,2022-12-10,2022-05-24,Training,1
+395,false,2022-04-25,2022-12-18,Human Resources,1
+396,false,2022-04-25,2022-07-21,Business Development,1
+397,false,2022-05-22,2022-05-02,Support,1
+398,true,2022-03-03,2022-06-20,Marketing,1
+399,true,2022-04-23,2022-12-22,Legal,1
+400,true,2022-02-17,2022-04-04,Training,1
+401,true,2022-08-06,2022-03-28,Product Management,1
+402,true,2022-09-11,2022-12-08,Product Management,1
+403,false,2022-12-05,2022-06-29,Marketing,1
+404,true,2023-02-04,2022-08-17,Human Resources,1
+405,true,2022-05-02,2023-02-09,Sales,1
+406,false,2022-11-22,2023-01-13,Research and Development,1
+407,false,2022-08-30,2022-04-26,Services,1
+408,false,2022-10-25,2022-09-15,Accounting,1
+409,false,2022-02-22,2022-09-29,Services,1
+410,false,2022-07-07,2022-03-18,Sales,1
+411,false,2023-01-26,2022-06-05,Support,1
+412,true,2022-03-19,2023-01-06,Research and Development,1
+413,false,2022-02-27,2023-01-07,Research and Development,1
+414,false,2022-10-13,2022-12-26,Engineering,1
+415,true,2023-02-19,2022-03-29,Support,1
+416,true,2022-07-06,2023-01-15,Product Management,1
+417,true,2022-02-10,2022-06-24,Research and Development,1
+418,true,2022-03-10,2022-06-01,Training,1
+419,true,2022-05-12,2022-05-20,Legal,1
+420,false,2022-04-29,2022-08-09,Engineering,1
+421,false,2022-09-30,2022-03-19,Legal,1
+422,false,2022-07-30,2022-07-08,Engineering,1
+423,false,2022-09-01,2023-01-23,Training,1
+424,false,2023-01-27,2022-03-31,Product Management,1
+425,true,2022-03-26,2022-05-30,Services,1
+426,true,2022-04-23,2022-04-27,Human Resources,1
+427,false,2022-08-05,2022-12-30,Services,1
+428,true,2022-04-13,2022-04-24,Training,1
+429,false,2023-02-14,2022-08-27,Services,1
+430,true,2022-07-01,2022-05-30,Legal,1
+431,true,2022-05-25,2023-02-14,Legal,1
+432,true,2022-09-30,2022-02-28,Business Development,1
+433,false,2022-02-25,2022-06-11,Support,1
+434,true,2022-04-04,2022-04-27,Legal,1
+435,true,2022-12-09,2023-01-19,Training,1
+436,true,2022-07-21,2022-11-02,Training,1
+437,true,2022-09-14,2023-02-10,Human Resources,1
+438,false,2022-10-25,2023-02-12,Accounting,1
+439,false,2023-01-12,2022-05-12,Engineering,1
+440,false,2022-04-30,2022-06-19,Accounting,1
+441,true,2022-03-26,2022-11-15,Engineering,1
+442,true,2023-01-03,2023-01-22,Product Management,1
+443,true,2023-01-29,2022-10-21,Product Management,1
+444,false,2022-06-15,2022-04-15,Research and Development,1
+445,true,2022-09-29,2023-01-26,Engineering,1
+446,false,2022-12-01,2022-04-23,Product Management,1
+447,false,2022-07-06,2022-04-05,Human Resources,1
+448,false,2023-01-23,2022-03-12,Business Development,1
+449,true,2022-10-31,2022-04-20,Research and Development,1
+450,false,2022-06-06,2022-10-24,Legal,1
+451,true,2022-05-20,2022-03-12,Accounting,1
+452,true,2022-12-21,2022-08-28,Human Resources,1
+453,false,2022-11-26,2022-09-25,Product Management,1
+454,false,2023-01-02,2022-05-05,Services,1
+455,true,2022-07-24,2022-11-19,Product Management,1
+456,false,2022-04-11,2022-03-17,Marketing,1
+457,false,2022-07-30,2022-05-14,Business Development,1
+458,false,2022-10-07,2022-06-03,Legal,1
+459,true,2023-02-16,2022-06-20,Human Resources,1
+460,true,2022-06-14,2022-12-04,Human Resources,1
+461,false,2022-03-08,2022-03-29,Human Resources,1
+462,false,2022-07-07,2022-05-06,Training,1
+463,true,2022-05-05,2022-03-14,Human Resources,1
+464,false,2022-09-14,2022-08-14,Business Development,1
+465,false,2022-10-13,2022-11-27,Human Resources,1
+466,true,2022-06-11,2023-02-09,Support,1
+467,false,2022-07-03,2022-05-07,Training,1
+468,false,2022-10-21,2022-12-01,Marketing,1
+469,true,2022-04-09,2022-07-24,Human Resources,1
+470,true,2022-09-24,2022-08-16,Sales,1
+471,true,2022-07-30,2022-07-30,Support,1
+472,true,2022-05-23,2023-01-13,Support,1
+473,false,2022-10-08,2023-01-14,Accounting,1
+474,true,2022-05-16,2023-01-08,Product Management,1
+475,true,2022-05-30,2022-02-25,Engineering,1
+476,false,2022-03-16,2022-05-23,Engineering,1
+477,false,2022-03-24,2022-12-18,Marketing,1
+478,false,2022-03-20,2022-07-13,Engineering,1
+479,true,2023-01-21,2022-12-14,Engineering,1
+480,true,2022-09-30,2022-03-09,Training,1
+481,true,2022-05-30,2022-10-30,Engineering,1
+482,true,2023-01-16,2022-06-29,Training,1
+483,true,2022-10-21,2022-09-01,Services,1
+484,false,2022-06-04,2022-04-29,Sales,1
+485,true,2022-12-14,2022-03-07,Human Resources,1
+486,false,2022-09-04,2023-01-12,Human Resources,1
+487,false,2022-07-10,2022-10-02,Engineering,1
+488,false,2022-10-14,2023-02-11,Product Management,1
+489,false,2022-06-08,2022-08-01,Legal,1
+490,false,2022-07-28,2022-03-09,Accounting,1
+491,true,2022-06-26,2022-07-25,Support,1
+492,false,2022-07-31,2022-12-24,Training,1
+493,false,2023-01-28,2022-09-09,Research and Development,1
+494,false,2022-05-20,2022-09-15,Product Management,1
+495,true,2022-07-01,2022-03-05,Research and Development,1
+496,true,2022-08-13,2022-11-04,Services,1
+497,false,2022-06-18,2022-08-13,Business Development,1
+498,true,2022-08-20,2022-05-26,Services,1
+499,false,2022-03-12,2022-05-29,Services,1
+500,false,2022-08-28,2023-01-07,Human Resources,1
+501,false,2023-01-05,2022-08-13,Product Management,1
+502,false,2022-09-21,2022-07-28,Product Management,1
+503,true,2022-12-26,2022-09-13,Product Management,1
+504,false,2022-09-15,2022-07-11,Support,1
+505,false,2022-04-25,2022-03-05,Accounting,1
+506,true,2022-12-20,2022-10-21,Product Management,1
+507,true,2022-09-10,2022-04-21,Training,1
+508,false,2022-09-19,2023-01-14,Sales,1
+509,false,2022-06-14,2022-11-08,Business Development,1
+510,true,2022-07-29,2022-03-28,Product Management,1
+511,true,2022-12-09,2022-06-18,Accounting,1
+512,true,2023-01-11,2022-11-15,Product Management,1
+513,true,2022-03-31,2022-08-08,Services,1
+514,false,2022-06-14,2022-03-29,Legal,1
+515,false,2022-04-03,2022-04-16,Human Resources,1
+516,true,2022-06-02,2022-12-20,Sales,1
+517,true,2022-05-25,2022-09-17,Product Management,1
+518,false,2023-01-30,2022-02-22,Support,1
+519,true,2022-04-06,2022-03-10,Engineering,1
+520,true,2023-02-03,2022-06-19,Human Resources,1
+521,true,2022-06-15,2022-07-19,Legal,1
+522,true,2022-12-10,2022-12-02,Marketing,1
+523,false,2022-12-14,2022-11-05,Services,1
+524,false,2022-04-26,2022-06-29,Support,1
+525,false,2022-05-02,2023-01-13,Research and Development,1
+526,false,2022-11-28,2022-08-28,Accounting,1
+527,false,2022-11-22,2022-11-27,Support,1
+528,true,2022-03-15,2022-07-15,Support,1
+529,false,2023-02-16,2022-03-22,Research and Development,1
+530,true,2022-07-31,2022-07-01,Human Resources,1
+531,true,2022-02-27,2022-11-14,Support,1
+532,true,2022-07-27,2022-08-28,Services,1
+533,false,2022-05-11,2022-04-21,Legal,1
+534,true,2023-01-13,2022-07-03,Support,1
+535,true,2022-03-21,2022-09-15,Support,1
+536,true,2022-08-28,2023-02-14,Marketing,1
+537,true,2022-05-30,2022-03-10,Product Management,1
+538,true,2022-07-23,2022-07-19,Engineering,1
+539,true,2022-07-12,2022-06-14,Product Management,1
+540,true,2022-06-13,2022-07-08,Product Management,1
+541,false,2022-10-11,2022-12-27,Legal,1
+542,false,2022-10-31,2022-05-25,Legal,1
+543,false,2022-08-06,2022-09-18,Engineering,1
+544,true,2022-08-16,2022-08-13,Sales,1
+545,true,2022-11-06,2023-02-12,Legal,1
+546,false,2022-07-04,2022-02-23,Legal,1
+547,false,2022-04-10,2023-01-26,Legal,1
+548,true,2022-09-04,2022-03-23,Training,1
+549,true,2022-03-26,2022-12-11,Human Resources,1
+550,true,2022-09-23,2022-09-29,Services,1
+551,true,2022-09-17,2023-01-23,Business Development,1
+552,true,2022-11-05,2022-03-28,Support,1
+553,true,2022-11-08,2022-09-18,Support,1
+554,false,2022-03-08,2022-11-21,Marketing,1
+555,false,2022-05-21,2022-10-02,Training,1
+556,true,2022-08-24,2022-08-30,Legal,1
+557,true,2022-07-03,2022-04-12,Engineering,1
+558,false,2022-04-07,2022-08-08,Marketing,1
+559,true,2022-04-15,2022-09-17,Business Development,1
+560,true,2023-02-18,2022-03-23,Accounting,1
+561,true,2022-12-29,2022-11-09,Business Development,1
+562,true,2022-12-27,2022-06-19,Research and Development,1
+563,true,2022-03-12,2022-10-05,Sales,1
+564,false,2022-11-21,2022-11-05,Accounting,1
+565,true,2023-01-14,2022-08-31,Business Development,1
+566,false,2022-03-29,2022-08-25,Accounting,1
+567,true,2022-05-06,2022-09-07,Training,1
+568,false,2022-09-17,2022-11-06,Sales,1
+569,false,2022-11-26,2023-01-16,Accounting,1
+570,false,2023-02-12,2022-10-17,Training,1
+571,true,2022-03-09,2022-06-03,Business Development,1
+572,true,2022-09-14,2022-08-27,Sales,1
+573,true,2022-09-27,2022-12-28,Marketing,1
+574,false,2022-08-09,2022-05-18,Support,1
+575,true,2022-02-11,2022-09-21,Research and Development,1
+576,false,2022-09-10,2022-09-22,Marketing,1
+577,true,2022-05-30,2022-03-23,Business Development,1
+578,true,2022-06-06,2022-08-07,Legal,1
+579,true,2022-09-05,2022-12-11,Marketing,1
+580,false,2022-08-15,2022-12-26,Support,1
+581,true,2023-01-25,2022-07-05,Sales,1
+582,true,2022-02-13,2022-09-08,Legal,1
+583,false,2022-03-11,2022-08-10,Accounting,1
+584,true,2022-03-23,2022-03-17,Services,1
+585,true,2022-06-07,2022-07-20,Engineering,1
+586,false,2022-04-25,2022-12-03,Services,1
+587,true,2022-04-07,2022-04-20,Research and Development,1
+588,true,2023-01-20,2022-09-10,Marketing,1
+589,false,2022-07-24,2022-05-01,Accounting,1
+590,true,2023-02-14,2022-12-17,Legal,1
+591,false,2022-10-19,2022-09-15,Services,1
+592,true,2023-01-16,2022-12-28,Support,1
+593,false,2022-04-18,2023-01-29,Legal,1
+594,true,2023-02-02,2022-04-07,Business Development,1
+595,false,2022-09-30,2022-05-04,Engineering,1
+596,false,2022-08-06,2022-07-06,Services,1
+597,true,2022-10-25,2022-05-19,Marketing,1
+598,true,2022-09-26,2022-03-08,Engineering,1
+599,true,2022-07-23,2022-05-01,Research and Development,1
+600,false,2023-02-03,2022-04-15,Accounting,1
+601,true,2022-11-20,2022-03-09,Training,1
+602,false,2022-12-26,2022-12-13,Legal,1
+603,false,2022-10-13,2023-01-16,Support,1
+604,true,2022-11-28,2022-03-04,Training,1
+605,false,2023-01-03,2022-06-25,Legal,1
+606,true,2022-12-06,2022-11-03,Marketing,1
+607,false,2022-05-21,2022-08-15,Human Resources,1
+608,true,2023-01-03,2023-01-14,Accounting,1
+609,false,2022-12-05,2022-10-06,Training,1
+610,true,2022-10-30,2023-01-09,Engineering,1
+611,false,2022-03-29,2022-05-24,Legal,1
+612,false,2023-01-20,2023-01-14,Research and Development,1
+613,true,2022-12-19,2022-09-01,Marketing,1
+614,false,2022-08-28,2022-04-10,Training,1
+615,true,2023-01-28,2022-11-19,Sales,1
+616,true,2022-06-05,2022-05-27,Engineering,1
+617,true,2022-12-08,2023-01-20,Business Development,1
+618,true,2023-02-07,2022-12-08,Research and Development,1
+619,false,2023-01-19,2022-11-06,Human Resources,1
+620,false,2022-07-31,2022-10-02,Support,1
+621,true,2022-07-03,2022-05-29,Research and Development,1
+622,false,2023-01-11,2022-06-16,Business Development,1
+623,false,2022-05-17,2022-06-18,Product Management,1
+624,false,2023-02-06,2022-11-06,Engineering,1
+625,true,2022-10-25,2022-06-01,Product Management,1
+626,false,2022-09-09,2022-04-06,Product Management,1
+627,false,2022-10-10,2022-10-01,Product Management,1
+628,true,2022-02-06,2022-04-16,Research and Development,1
+629,true,2022-06-24,2022-08-21,Services,1
+630,true,2022-05-28,2022-09-16,Human Resources,1
+631,false,2022-02-08,2022-07-05,Support,1
+632,true,2022-04-21,2022-04-06,Accounting,1
+633,true,2022-06-02,2022-12-24,Marketing,1
+634,true,2022-02-13,2022-10-11,Marketing,1
+635,true,2022-10-29,2022-02-25,Product Management,1
+636,true,2023-01-23,2022-09-14,Legal,1
+637,false,2022-02-18,2022-08-07,Marketing,1
+638,true,2022-03-30,2022-05-09,Legal,1
+639,false,2023-01-24,2022-03-27,Accounting,1
+640,false,2022-05-11,2022-11-14,Sales,1
+641,true,2022-06-29,2022-10-13,Business Development,1
+642,true,2022-03-09,2022-06-02,Support,1
+643,true,2022-06-01,2022-10-01,Human Resources,1
+644,false,2022-06-15,2022-09-16,Marketing,1
+645,false,2022-07-13,2022-04-19,Support,1
+646,false,2022-11-30,2022-07-11,Engineering,1
+647,false,2022-05-29,2022-07-15,Legal,1
+648,true,2023-02-03,2022-06-21,Accounting,1
+649,true,2022-02-14,2022-05-24,Engineering,1
+650,true,2022-10-10,2023-01-08,Legal,1
+651,true,2022-09-11,2022-04-25,Support,1
+652,false,2022-05-13,2022-10-13,Business Development,1
+653,true,2022-07-10,2022-10-19,Services,1
+654,true,2022-11-12,2022-11-29,Legal,1
+655,true,2022-06-07,2022-03-26,Legal,1
+656,true,2022-02-08,2022-09-22,Training,1
+657,false,2022-07-25,2022-08-06,Legal,1
+658,false,2022-06-16,2022-07-23,Sales,1
+659,true,2022-05-26,2022-04-06,Support,1
+660,true,2022-03-06,2022-05-08,Marketing,1
+661,true,2022-08-06,2022-04-15,Business Development,1
+662,false,2023-01-10,2022-04-10,Accounting,1
+663,true,2022-02-28,2022-11-11,Research and Development,1
+664,true,2022-02-20,2022-12-19,Legal,1
+665,false,2022-12-29,2022-09-07,Training,1
+666,true,2022-12-18,2022-03-20,Accounting,1
+667,true,2022-02-17,2022-09-28,Services,1
+668,true,2022-08-31,2022-12-27,Engineering,1
+669,true,2022-06-17,2022-06-17,Legal,1
+670,true,2022-06-29,2022-04-19,Engineering,1
+671,true,2022-08-01,2023-01-04,Training,1
+672,false,2022-07-11,2022-05-17,Sales,1
+673,true,2022-06-24,2022-07-28,Training,1
+674,true,2022-11-18,2022-12-29,Training,1
+675,true,2022-08-19,2022-09-01,Services,1
+676,true,2022-07-25,2022-11-16,Legal,1
+677,true,2022-03-18,2022-04-08,Training,1
+678,true,2022-03-30,2022-05-05,Legal,1
+679,false,2023-01-21,2022-06-06,Human Resources,1
+680,false,2022-03-10,2022-12-31,Human Resources,1
+681,true,2022-05-07,2022-05-26,Accounting,1
+682,true,2022-11-07,2022-08-19,Human Resources,1
+683,true,2023-01-16,2023-01-21,Product Management,1
+684,false,2022-05-23,2022-12-06,Training,1
+685,true,2022-11-12,2023-02-07,Sales,1
+686,true,2022-12-30,2022-03-27,Accounting,1
+687,true,2022-02-20,2022-07-29,Legal,1
+688,true,2022-07-02,2022-08-29,Engineering,1
+689,true,2022-09-30,2022-07-20,Research and Development,1
+690,false,2023-02-18,2022-05-05,Legal,1
+691,true,2022-12-11,2023-01-21,Sales,1
+692,false,2022-03-30,2022-03-12,Sales,1
+693,true,2022-08-08,2023-01-19,Support,1
+694,false,2022-05-11,2022-09-06,Support,1
+695,false,2022-05-03,2022-08-03,Sales,1
+696,false,2022-02-28,2022-05-23,Engineering,1
+697,false,2022-03-06,2022-12-17,Services,1
+698,false,2023-02-18,2022-02-23,Sales,1
+699,true,2022-02-25,2022-05-19,Research and Development,1
+700,false,2022-02-13,2023-01-27,Engineering,1
+701,true,2022-11-12,2022-05-18,Training,1
+702,false,2022-07-23,2022-06-20,Product Management,1
+703,false,2022-07-17,2022-08-03,Training,1
+704,true,2022-04-23,2022-10-05,Research and Development,1
+705,true,2022-03-15,2022-10-24,Services,1
+706,false,2022-06-08,2022-07-01,Services,1
+707,true,2022-08-09,2022-08-05,Human Resources,1
+708,true,2022-04-08,2022-11-20,Human Resources,1
+709,true,2022-05-10,2023-01-16,Sales,1
+710,false,2022-07-01,2022-04-15,Research and Development,1
+711,false,2022-04-16,2022-08-09,Human Resources,1
+712,false,2022-10-14,2023-01-12,Sales,1
+713,false,2022-07-04,2022-03-14,Research and Development,1
+714,true,2022-11-09,2022-03-13,Product Management,1
+715,true,2022-06-16,2022-07-30,Research and Development,1
+716,false,2022-12-15,2022-09-02,Engineering,1
+717,false,2022-06-12,2022-04-16,Sales,1
+718,true,2022-05-19,2022-10-30,Product Management,1
+719,false,2022-08-15,2022-05-24,Marketing,1
+720,false,2022-05-29,2022-03-08,Training,1
+721,false,2023-01-10,2022-09-09,Training,1
+722,false,2023-02-08,2022-12-22,Services,1
+723,false,2023-01-16,2023-02-12,Research and Development,1
+724,false,2022-08-03,2022-11-19,Support,1
+725,false,2022-05-26,2022-09-04,Legal,1
+726,false,2022-10-28,2022-04-23,Legal,1
+727,false,2022-07-07,2022-12-13,Marketing,1
+728,false,2022-07-06,2022-12-04,Sales,1
+729,false,2022-08-03,2022-11-16,Sales,1
+730,true,2022-12-17,2022-02-22,Business Development,1
+731,true,2022-07-15,2022-08-04,Research and Development,1
+732,true,2022-05-27,2022-04-18,Research and Development,1
+733,true,2022-03-01,2022-03-05,Engineering,1
+734,false,2022-06-11,2022-08-04,Product Management,1
+735,false,2022-06-29,2022-11-11,Product Management,1
+736,true,2022-09-22,2022-08-24,Product Management,1
+737,false,2022-10-31,2022-09-29,Research and Development,1
+738,false,2022-03-09,2022-06-09,Product Management,1
+739,false,2023-01-14,2022-03-15,Support,1
+740,false,2022-03-11,2022-10-16,Marketing,1
+741,false,2022-04-30,2022-10-28,Business Development,1
+742,true,2022-03-27,2022-05-03,Research and Development,1
+743,false,2022-07-27,2023-01-17,Business Development,1
+744,true,2022-10-16,2022-03-04,Support,1
+745,false,2022-04-15,2022-11-01,Human Resources,1
+746,true,2022-06-02,2022-07-27,Engineering,1
+747,true,2022-02-28,2022-03-16,Product Management,1
+748,true,2022-06-03,2022-10-30,Legal,1
+749,false,2022-12-06,2023-01-06,Product Management,1
+750,false,2022-06-28,2022-04-12,Marketing,1
+751,true,2022-06-08,2022-04-25,Legal,1
+752,false,2022-04-22,2022-10-30,Sales,1
+753,false,2022-11-20,2022-05-19,Support,1
+754,false,2022-09-10,2022-10-06,Services,1
+755,true,2022-06-23,2022-12-11,Engineering,1
+756,false,2022-02-26,2022-04-29,Training,1
+757,false,2022-12-16,2022-11-29,Accounting,1
+758,false,2022-03-20,2022-06-25,Marketing,1
+759,false,2022-03-08,2022-09-13,Legal,1
+760,false,2022-09-11,2023-02-02,Human Resources,1
+761,true,2022-09-04,2022-07-07,Legal,1
+762,false,2022-02-14,2023-01-22,Services,1
+763,true,2022-08-29,2023-02-03,Support,1
+764,false,2022-04-14,2022-06-01,Sales,1
+765,false,2022-10-03,2022-08-30,Research and Development,1
+766,true,2022-03-29,2023-01-02,Engineering,1
+767,false,2022-10-01,2022-11-17,Research and Development,1
+768,true,2022-06-23,2022-08-09,Marketing,1
+769,false,2022-04-30,2022-07-11,Product Management,1
+770,true,2022-03-17,2022-05-31,Accounting,1
+771,false,2023-02-10,2022-07-18,Marketing,1
+772,true,2022-10-09,2023-02-12,Business Development,1
+773,true,2022-09-02,2022-06-01,Engineering,1
+774,false,2022-09-27,2022-06-10,Human Resources,1
+775,true,2022-02-06,2022-11-17,Services,1
+776,false,2022-05-24,2022-08-11,Engineering,1
+777,true,2022-09-07,2022-06-10,Support,1
+778,false,2023-01-27,2022-03-10,Sales,1
+779,false,2022-05-05,2022-11-28,Services,1
+780,false,2022-10-01,2022-06-25,Training,1
+781,false,2022-07-03,2023-02-13,Legal,1
+782,true,2022-10-11,2022-12-09,Services,1
+783,true,2022-10-01,2022-03-03,Research and Development,1
+784,true,2023-01-14,2022-10-19,Marketing,1
+785,true,2022-07-01,2022-08-09,Research and Development,1
+786,true,2023-01-05,2023-01-28,Training,1
+787,true,2022-07-07,2022-08-10,Support,1
+788,false,2022-07-01,2022-05-29,Business Development,1
+789,false,2022-06-26,2022-02-26,Marketing,1
+790,true,2022-12-12,2022-03-18,Legal,1
+791,false,2023-01-25,2023-02-05,Sales,1
+792,true,2022-04-25,2023-02-07,Training,1
+793,false,2022-10-16,2022-04-03,Product Management,1
+794,false,2022-08-03,2023-02-08,Human Resources,1
+795,true,2022-12-17,2022-08-16,Services,1
+796,true,2022-05-17,2022-09-07,Accounting,1
+797,true,2023-02-02,2022-03-16,Training,1
+798,false,2022-08-29,2022-06-09,Research and Development,1
+799,false,2022-05-24,2022-07-19,Business Development,1
+800,true,2022-11-13,2022-04-04,Training,1
+801,true,2022-06-21,2022-12-21,Business Development,1
+802,false,2022-07-16,2022-04-23,Accounting,1
+803,false,2022-05-25,2022-12-18,Product Management,1
+804,false,2023-01-18,2022-09-14,Research and Development,1
+805,true,2022-11-01,2022-07-07,Human Resources,1
+806,false,2022-04-14,2022-06-17,Product Management,1
+807,false,2022-10-21,2022-06-23,Services,1
+808,true,2022-07-09,2022-09-27,Business Development,1
+809,true,2022-07-25,2022-03-04,Engineering,1
+810,true,2022-06-18,2022-04-28,Training,1
+811,false,2022-03-19,2022-07-23,Training,1
+812,true,2022-12-10,2022-03-24,Sales,1
+813,false,2022-05-14,2022-10-05,Engineering,1
+814,false,2022-07-20,2022-03-29,Engineering,1
+815,true,2022-06-05,2022-08-18,Sales,1
+816,true,2022-03-24,2022-03-13,Sales,1
+817,true,2022-12-13,2022-11-22,Marketing,1
+818,true,2022-10-28,2022-06-10,Training,1
+819,false,2022-11-29,2022-02-24,Legal,1
+820,true,2022-05-22,2022-02-23,Training,1
+821,false,2022-07-13,2022-04-10,Business Development,1
+822,false,2023-02-04,2023-01-13,Legal,1
+823,true,2022-07-17,2022-09-21,Training,1
+824,false,2022-09-08,2023-01-24,Legal,1
+825,false,2022-08-04,2022-05-29,Research and Development,1
+826,true,2022-07-30,2022-08-15,Sales,1
+827,false,2022-07-02,2022-05-15,Support,1
+828,false,2022-06-26,2022-10-08,Research and Development,1
+829,false,2022-03-07,2022-10-13,Legal,1
+830,false,2022-09-06,2022-10-03,Services,1
+831,true,2022-12-11,2022-07-25,Engineering,1
+832,false,2022-04-19,2022-08-01,Engineering,1
+833,true,2022-09-02,2022-03-10,Services,1
+834,true,2022-11-14,2022-11-02,Marketing,1
+835,false,2022-02-10,2022-12-07,Human Resources,1
+836,false,2022-10-08,2022-03-19,Research and Development,1
+837,false,2022-09-09,2022-03-22,Product Management,1
+838,true,2022-02-17,2022-10-22,Services,1
+839,false,2022-09-09,2022-11-30,Product Management,1
+840,true,2022-09-08,2022-03-22,Human Resources,1
+841,false,2022-06-26,2022-09-15,Engineering,1
+842,false,2023-02-15,2023-01-23,Research and Development,1
+843,false,2022-12-23,2022-06-01,Research and Development,1
+844,true,2022-04-29,2022-05-24,Engineering,1
+845,true,2022-09-01,2023-01-27,Accounting,1
+846,false,2022-06-16,2022-09-11,Engineering,1
+847,false,2022-12-16,2022-04-28,Marketing,1
+848,false,2022-08-12,2022-07-11,Services,1
+849,true,2022-08-18,2022-08-01,Human Resources,1
+850,true,2022-03-29,2022-10-01,Accounting,1
+851,true,2022-04-20,2022-07-31,Research and Development,1
+852,true,2022-10-20,2022-11-24,Services,1
+853,true,2022-07-22,2022-06-29,Support,1
+854,true,2022-09-25,2022-11-09,Legal,1
+855,false,2022-12-22,2022-08-26,Engineering,1
+856,true,2022-06-17,2022-06-11,Research and Development,1
+857,true,2022-12-02,2022-10-26,Legal,1
+858,true,2022-09-30,2022-08-29,Support,1
+859,true,2022-02-18,2022-05-15,Accounting,1
+860,false,2023-01-06,2022-07-17,Training,1
+861,false,2023-01-29,2022-04-16,Research and Development,1
+862,false,2022-11-29,2022-06-15,Accounting,1
+863,true,2022-08-04,2022-05-05,Support,1
+864,true,2022-08-09,2023-02-04,Sales,1
+865,false,2022-09-26,2023-02-07,Training,1
+866,true,2022-11-03,2023-01-28,Research and Development,1
+867,false,2022-07-16,2022-05-09,Engineering,1
+868,true,2022-03-07,2022-09-29,Engineering,1
+869,true,2022-10-02,2022-12-23,Sales,1
+870,true,2023-01-26,2022-05-18,Marketing,1
+871,false,2022-09-08,2022-08-16,Product Management,1
+872,true,2022-05-15,2022-07-09,Engineering,1
+873,false,2022-07-31,2022-05-06,Legal,1
+874,true,2023-02-19,2022-04-17,Accounting,1
+875,true,2023-02-10,2022-11-09,Marketing,1
+876,false,2022-08-09,2022-12-13,Marketing,1
+877,true,2022-10-15,2022-05-10,Legal,1
+878,true,2022-02-24,2023-02-10,Accounting,1
+879,true,2022-02-28,2022-09-04,Training,1
+880,false,2022-08-30,2022-05-09,Services,1
+881,true,2022-12-25,2022-05-15,Marketing,1
+882,true,2022-10-29,2022-08-30,Legal,1
+883,true,2022-07-07,2022-07-10,Research and Development,1
+884,false,2023-02-18,2023-02-08,Legal,1
+885,true,2022-06-03,2022-09-29,Product Management,1
+886,true,2022-12-28,2022-06-29,Sales,1
+887,false,2022-11-29,2023-01-30,Accounting,1
+888,true,2022-04-06,2022-12-18,Marketing,1
+889,true,2022-11-26,2022-09-25,Product Management,1
+890,true,2022-12-13,2022-04-12,Business Development,1
+891,true,2022-03-09,2022-06-30,Legal,1
+892,true,2022-12-19,2022-08-27,Training,1
+893,true,2022-12-05,2022-08-28,Legal,1
+894,false,2022-06-25,2023-01-05,Training,1
+895,false,2022-10-08,2022-11-02,Services,1
+896,true,2022-02-28,2022-08-22,Human Resources,1
+897,true,2022-08-29,2022-05-30,Support,1
+898,true,2022-09-17,2022-07-23,Training,1
+899,true,2022-11-09,2022-05-02,Support,1
+900,true,2022-09-14,2023-01-05,Business Development,1
+901,false,2022-02-13,2022-02-25,Business Development,1
+902,true,2022-08-27,2022-08-17,Engineering,1
+903,true,2022-02-07,2022-10-20,Training,1
+904,false,2022-06-05,2022-09-06,Legal,1
+905,false,2022-02-21,2022-12-31,Research and Development,1
+906,false,2022-02-07,2022-10-19,Human Resources,1
+907,false,2022-02-15,2022-06-14,Accounting,1
+908,false,2022-10-02,2022-03-07,Accounting,1
+909,true,2022-06-03,2022-09-26,Product Management,1
+910,true,2022-10-10,2022-11-10,Legal,1
+911,true,2022-04-20,2022-02-27,Support,1
+912,false,2022-09-18,2023-01-27,Engineering,1
+913,false,2022-12-20,2022-04-03,Accounting,1
+914,true,2022-03-03,2022-03-15,Human Resources,1
+915,true,2022-12-10,2022-03-22,Business Development,1
+916,true,2022-05-05,2022-09-05,Services,1
+917,false,2023-02-07,2023-01-16,Marketing,1
+918,false,2022-03-24,2022-10-18,Research and Development,1
+919,false,2023-02-12,2022-04-11,Human Resources,1
+920,true,2023-02-08,2023-01-09,Marketing,1
+921,true,2022-03-17,2022-12-17,Engineering,1
+922,true,2022-08-04,2023-02-12,Legal,1
+923,true,2022-08-05,2023-01-11,Sales,1
+924,true,2023-01-17,2022-08-20,Engineering,1
+925,true,2022-07-20,2022-10-19,Training,1
+926,true,2022-10-12,2023-01-03,Engineering,1
+927,false,2022-04-21,2022-12-24,Human Resources,1
+928,false,2022-06-19,2022-05-29,Services,1
+929,false,2022-07-04,2022-10-06,Sales,1
+930,true,2023-01-24,2022-10-02,Services,1
+931,false,2022-02-25,2023-01-20,Services,1
+932,false,2022-07-25,2022-10-03,Human Resources,1
+933,true,2022-09-30,2022-06-09,Human Resources,1
+934,true,2022-07-01,2023-01-31,Business Development,1
+935,true,2022-09-01,2022-12-01,Accounting,1
+936,false,2022-03-20,2022-08-02,Training,1
+937,true,2022-09-21,2022-12-25,Support,1
+938,false,2022-07-21,2023-01-31,Sales,1
+939,false,2022-08-19,2022-10-02,Services,1
+940,false,2022-04-13,2022-08-18,Engineering,1
+941,true,2022-10-13,2023-01-03,Services,1
+942,true,2022-03-24,2022-05-12,Sales,1
+943,true,2022-08-06,2023-02-10,Human Resources,1
+944,false,2022-05-29,2022-08-07,Product Management,1
+945,true,2022-09-23,2023-01-07,Engineering,1
+946,false,2023-01-24,2022-12-15,Engineering,1
+947,false,2022-09-24,2023-01-12,Business Development,1
+948,true,2022-07-25,2022-07-07,Accounting,1
+949,true,2022-09-24,2022-05-30,Accounting,1
+950,true,2023-01-30,2022-10-01,Legal,1
+951,false,2022-07-31,2022-11-17,Human Resources,1
+952,true,2022-10-14,2022-12-24,Accounting,1
+953,true,2022-10-13,2022-04-12,Services,1
+954,false,2022-08-06,2023-01-31,Accounting,1
+955,true,2022-06-01,2022-03-18,Research and Development,1
+956,false,2023-01-11,2022-09-07,Business Development,1
+957,true,2022-07-22,2022-11-16,Training,1
+958,false,2022-04-03,2023-01-15,Business Development,1
+959,true,2022-08-31,2022-09-13,Services,1
+960,false,2022-10-24,2022-08-01,Marketing,1
+961,false,2022-11-06,2022-06-03,Engineering,1
+962,false,2022-12-09,2022-09-16,Marketing,1
+963,true,2022-07-27,2022-05-16,Training,1
+964,false,2022-07-24,2022-06-23,Human Resources,1
+965,true,2022-12-26,2022-11-12,Product Management,1
+966,true,2023-01-04,2022-07-15,Sales,1
+967,true,2022-04-27,2022-03-04,Sales,1
+968,true,2023-02-09,2022-06-10,Research and Development,1
+969,false,2023-02-12,2022-09-09,Engineering,1
+970,true,2023-01-18,2022-10-13,Product Management,1
+971,false,2022-12-30,2022-09-10,Sales,1
+972,false,2022-03-21,2022-09-02,Engineering,1
+973,true,2022-04-18,2022-06-27,Product Management,1
+974,true,2022-08-26,2022-10-01,Business Development,1
+975,true,2022-02-27,2023-01-25,Sales,1
+976,false,2022-05-05,2023-02-11,Support,1
+977,true,2022-06-22,2022-06-03,Services,1
+978,false,2023-02-17,2022-07-20,Engineering,1
+979,true,2022-06-24,2022-06-19,Services,1
+980,false,2022-05-25,2022-08-10,Business Development,1
+981,true,2022-06-07,2022-07-01,Support,1
+982,false,2023-02-10,2022-10-20,Accounting,1
+983,false,2022-11-04,2022-07-12,Human Resources,1
+984,false,2022-03-11,2022-09-21,Engineering,1
+985,false,2022-08-11,2022-12-18,Marketing,1
+986,false,2022-08-14,2022-03-12,Engineering,1
+987,false,2023-02-01,2022-10-22,Product Management,1
+988,false,2022-06-28,2022-11-06,Product Management,1
+989,true,2022-07-08,2022-12-04,Support,1
+990,false,2022-06-25,2022-07-09,Services,1
+991,false,2022-07-07,2022-07-09,Marketing,1
+992,true,2022-04-17,2022-06-16,Services,1
+993,true,2023-02-19,2022-07-19,Research and Development,1
+994,false,2022-04-02,2022-04-10,Support,1
+995,true,2022-10-20,2022-03-17,Marketing,1
+996,false,2022-08-27,2022-04-03,Services,1
+997,true,2022-10-14,2022-10-01,Human Resources,1
+998,true,2023-02-10,2023-01-21,Engineering,1
+999,true,2022-03-16,2022-04-19,Research and Development,1
+1000,false,2022-10-02,2022-12-31,Marketing,1

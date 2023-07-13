@@ -1,0 +1,71 @@
+{% extends 'crud/base.html' %}
+{% block titulo %}Página Lista de Clientes {% endblock titulo %}
+{% block contenido %}
+<div class="card">
+        <div class="card-header">
+            <a name="btnuevo" id="btnuevo" class="btn btn-primary" href="" role="button">Nuevo Cliente</a>
+        </div>
+        <div class="card-body">
+            <h4 class="card-title">Clientes</h4>
+            <table class="table data">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nombre</th>
+                        <th>Ap</th>
+                        <th>Am</th>       
+                        <th>Area</th>
+                        <th>Estudio</th>
+                        <th>Carrera</th>
+                        <th>Foto</th> 
+                        <th>Fecha Reg</th>
+                        <th>Estado</th>                         
+                        {% comment %} <th>Acciones</th> {% endcomment %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {%  for cl in consulta %}
+                    <tr>
+                        <td>{{ cl.id }}</td>
+                        <td>{{ cl.name }}</td>
+                        <td>{{ cl.ap }}</td>
+                        <td>{{ cl.am }}</td>
+                        <td>{{ cl.area }}</td>
+                        <td>{{ cl.estudio }}</td>
+                        <td>{{ cl.Carrera }}</td>
+                        <td>
+                            <img src="{{ cl.foto.url }}" height="60">
+                        </td>
+                        <td>{{ cl.fecha_registro | date:'Y-m-d' }}</td>
+                        {% comment %} <td>{{ cl.fecha_registro}}</td> {% endcomment %}
+                        <td>{{ cl.estado }}</td>
+<!--                        {% comment %} <td>-->
+<!--                            <a name="bteditar" id="bteditar" class="btn btn-info" href="" role="button">Editar</a>-->
+<!--                            <a name="bteliminar" id="bteliminar" class="btn btn-danger" href="" role="button">Eliminar</a>-->
+<!--                        </td>   {% endcomment %}-->
+                    </tr>
+                    {% endfor %}
+                    
+                </tbody>
+            </table>
+            
+            
+        </div>
+        <div class="card-footer text-muted">
+        
+        </div>
+    </div>
+
+{% endblock contenido %}
+
+
+{% block datatables %}
+<script>
+    $(document).ready(function () {
+        $('.data').DataTable();
+    });
+</script>
+{% endblock datatables %}
+   
+   
+
